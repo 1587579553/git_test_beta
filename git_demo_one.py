@@ -5,3 +5,4 @@ for i in range(10):
     print("I am tire,pls let me fly from the tallest floor")
     print("today is wendsday")
     print("today is sunday!I fell so sorrowful！wuwuwu")
+    print("I think the task should be done soon!")
